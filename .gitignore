@@ -1,0 +1,37 @@
+# Build output
+
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Compiled files
+
+*.o
+*.a
+*.so
+*.elf
+*.hex
+*.bin
+*.map
+*.out
+
+# IDE / editor files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+
+*.log
+*.tmp
+*.bak
+*~
